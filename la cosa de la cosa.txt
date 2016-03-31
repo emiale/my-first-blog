@@ -1,0 +1,7 @@
+BD local name: pive_9
+BD local pass: 12345678
+
+BD servidor name: emiale
+BD local pass: 12345678
+
+correo utilizado: esuarez_ipn@hotmail.com
